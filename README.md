@@ -1,6 +1,7 @@
 Creating cross relation between foreclosure and unemployment rate.
-Current Los angels housing market is difficult to predict.  I hope creating a cross reference between foreclosure and unemployment will some how help predict a house price.   
-My targete cliants are early 30th professional who like to goto coffee shop. 
+Current Los angels housing market is difficult to predict.  
+I hope that creating a cross-reference between foreclosure and unemployment will help predict home prices in near future.
+My target client is a professional in his early thirties who likes to go to coffee shops.
 
 Data acquisition and cleaning
 1) City of los angels foreclosure data by zip code form 2015 to 2020
