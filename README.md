@@ -39,5 +39,6 @@ Conclusion:
   Out of three model GradientBoostingRegressor create best result.
 Most of bank foreclosed house on beginning of year. Maybe because of holiday back log.
 When unemployment rate is real high (example 15% or more), foreclosure will not impact unemployment_rate. 
+Unemployment between 6 to 10 % impacted foreclosure.
 Probably, most of unemployed person do not own the house. Also, I found few good zip code for Venues.
 
